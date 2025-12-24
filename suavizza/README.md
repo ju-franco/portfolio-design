@@ -1,12 +1,10 @@
-# 🍕 Suavizza — Branding & Design
+# `🍕 Suavizza — Branding & Design`
 
-**Suavizza** é um projeto de **branding e design visual** desenvolvido para o desafio **#PizzaImpossível**, do curso **Escola de Inovadores 2025**, promovido pelo **Centro Paula Souza (CPS)**.
-
-O projeto foi **finalista do desafio** e teve como foco a criação de uma identidade visual forte, acessível e empática para uma proposta de pizza do futuro.
+> **Suavizza** é um projeto desenvolvido para o desafio **#PizzaImpossível**, do curso **Escola de Inovadores 2025**, promovido pelo **Centro Paula Souza (CPS)**. O projeto foi **finalista do desafio** e teve como foco a criação de uma identidade visual forte, acessível e empática para uma proposta de pizza do futuro.
 
 ---
 
-## 🎨 Conceito de Marca
+## `🎨 Conceito de Marca`
 
 A identidade da **Suavizza** foi construída a partir de uma linguagem visual leve, acolhedora e informativa, dialogando diretamente com o bem-estar feminino.
 
@@ -20,7 +18,7 @@ A comunicação busca traduzir temas sensíveis de forma visualmente amigável, 
 
 ---
 
-## 🖋️ Naming & Linguagem
+## `🖋️ Naming & Linguagem`
 
 O nome **Suavizza** surge da fusão entre:
 - **“Suave”**, remetendo a conforto e alívio  
@@ -30,7 +28,7 @@ A linguagem verbal e visual da marca prioriza proximidade, simplicidade e identi
 
 ---
 
-## 🎨 Identidade Visual
+## `🎨 Identidade Visual`
 
 A identidade visual foi pensada para ser:
 - Didática  
@@ -46,7 +44,7 @@ Principais escolhas visuais:
 
 ---
 
-## 🛠️ Processo Criativo
+## `🛠️ Processo Criativo`
 
 O desenvolvimento visual seguiu etapas focadas em branding:
 
@@ -58,11 +56,11 @@ O desenvolvimento visual seguiu etapas focadas em branding:
 
 ---
 
-## 🖼️ Aplicações da Marca
+## `🖼️ Aplicações da Marca`
 
 Os materiais abaixo demonstram a aplicação da identidade visual em diferentes contextos de comunicação.
 
-### 📱 Carrossel para Instagram
+### `📱 Carrossel para Instagram`
 Postagem desenvolvida para redes sociais, explorando narrativa visual, hierarquia de informação e consistência estética.
 
 <p align="center">
@@ -71,7 +69,7 @@ Postagem desenvolvida para redes sociais, explorando narrativa visual, hierarqui
 
 ---
 
-### 📰 Panfleto Impresso
+### `📰 Panfleto Impresso`
 Material gráfico criado para apresentação presencial, sintetizando o conceito da marca e seus diferenciais visuais.
 
 <p align="center">
@@ -80,18 +78,34 @@ Material gráfico criado para apresentação presencial, sintetizando o conceito
 
 ---
 
-### 📊 Slides de Apresentação
+### `📊 Slides de Apresentação`
 Slides contextuais desenvolvidos para reforçar a narrativa visual da marca durante a apresentação do projeto.
+
+<table align="center">
+  <tr>
+    <td><img src="./slide1.png" alt="Slide 1" width="350"></td>
+    <td><img src="./slide2.png" alt="Slide 2" width="350"></td>
+  </tr>
+  <tr>
+    <td><img src="./slide3.png" alt="Slide 3" width="350"></td>
+    <td><img src="./slide4.png" alt="Slide 4" width="350"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./slide5.png" alt="Slide 5" width="350">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Destaque
+## `🏆 Destaque`
 
 ✔ Projeto **finalista** do desafio #PizzaImpossível  
 ✔ Curso **Escola de Inovadores 2025** — **Centro Paula Souza (CPS)**  
 
 ---
 
-## 👤 Autoria
+## `👤 Autoria`
 
 Branding, identidade visual e materiais gráficos desenvolvidos por **Julia Franco**
