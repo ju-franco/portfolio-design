@@ -11,7 +11,7 @@ O fanzine foi construído para democratizar o pensamento de Milton Santos, trans
 - **Estética de Colagem (Cut-out):** Inspiração direta nos cartazes e zines clássicos do punk, com recortes e sobreposições que remetem aos fanzines independentes das décadas de 70 e 80.
 - **Tipografia "Ransom Note":** Uso de fontes que simulam recortes de jornal e máquinas de escrever, reforçando o tom de denúncia e urgência.
 - **Grãos e Texturas:** Aplicação de ruído e efeito de xerox, remetendo à produção marginal e independente.
-- **Paleta de Cores:** O uso do **Vinho/Bordô** sobre o alto contraste P&B traz uma carga dramática e visceral, fugindo da neutralidade acadêmica.
+- **Paleta de Cres:** O uso do **Vinho/Bordô** sobre o alto contraste P&B traz uma carga dramática e visceral, fugindo da neutralidade acadêmica.
 
 ---
 
@@ -20,19 +20,18 @@ O fanzine foi construído para democratizar o pensamento de Milton Santos, trans
 1. **Curadoria Crítica:** Seleção de trechos fundamentais da obra "Por uma outra globalização".
 2.  **Layout:** Montagem digital simulando o processo manual de recorte e cola.
 3.  **Finalização:** Organização do fluxo de leitura para garantir que o impacto visual servisse à mensagem política.
-   
+    
 ---
 
 ## `🖼️ Galeria do Projeto`
 
-| | | |
-| :---: | :---: | :---: |
 | **Capa** | **Milton Santos** | **Conceito** |
-| <img src="fanzine-globalizacao/capa.png" width="300"> | <img src="fanzine-globalizacao/milton-santos.png" width="300"> | <img src="fanzine-globalizacao/globalizacao.png" width="300"> |
+| :---: | :---: | :---: |
+| <img src="./capa.png" width="300"> | <img src="./milton-santos.png" width="300"> | <img src="./globalizacao.png" width="300"> |
 | **Fábula** | **Perversa** | **Possibilidade** |
-| <img src="fanzine-globalizacao/fabula.png" width="300"> | <img src="fanzine-globalizacao/peversa.png" width="300"> | <img src="fanzine-globalizacao/possibilidade.png" width="300"> |
+| <img src="./fabula.png" width="300"> | <img src="./peversa.png" width="300"> | <img src="./possibilidade.png" width="300"> |
 | **Síntese (Tirinha)** | **Equipe** | |
-| <img src="fanzine-globalizacao/tirinha.png" width="300"> | <img src="fanzine-globalizacao/integrantes.png" width="300"> | |
+| <img src="./tirinha.png" width="300"> | <img src="./integrantes.png" width="300"> | |
 
 ---
 
