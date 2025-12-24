@@ -77,9 +77,13 @@ Cada decisão visual foi pensada para alinhar estética, propósito e experiênc
 
 ![Mockups da marca](./mockups_docuras.png)
 
-Arquivos adicionais do projeto:
-- **Menu da loja** — `menu_docuras`  
-- **Material “Aceitamos Pix”** — `docuras_pix`  
+## `📑 Arquivos adicionais do projeto`
+
+<div align="center">
+  <img src="./menu_docuras.png" alt="Menu Docuras Enlaces" width="30%">
+  &nbsp;&nbsp;
+  <img src="./docuras_pix.png" alt="Aceitamos Pix - Docuras Enlaces" width="30%">
+</div>
 
 ---
 
