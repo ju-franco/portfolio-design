@@ -18,16 +18,6 @@ A comunicação busca traduzir temas sensíveis de forma visualmente amigável, 
 
 ---
 
-## `🖋️ Naming & Linguagem`
-
-O nome **Suavizza** surge da fusão entre:
-- **“Suave”**, remetendo a conforto e alívio  
-- **“Pizza”**, símbolo de praticidade e popularidade  
-
-A linguagem verbal e visual da marca prioriza proximidade, simplicidade e identificação com o público-alvo.
-
----
-
 ## `🎨 Identidade Visual`
 
 A identidade visual foi pensada para ser:
