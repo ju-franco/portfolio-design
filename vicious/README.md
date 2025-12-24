@@ -1,5 +1,7 @@
 # `🍬 Vicious - Identidade Visual`
 
+<img src="./vicious.png" alt="Logotipo Vicious" width="250">
+
 > A **Vicious** é uma marca de doces com uma proposta visual ousada e provocativa, criada para romper com o imaginário tradicionalmente infantil do segmento. Sua identidade visual aposta no contraste entre o conceito de “doçura” e uma estética intensa, moderna e marcante.
 
 ---
@@ -61,7 +63,7 @@ Cada decisão foi pensada para reforçar a personalidade intensa e única da mar
 
 ---
 
-## `🖼️ Logotipo`
+## `🖼️ Logotipo Principal`
 
 <img src="./vicious.png" alt="Logotipo Vicious" width="400">
 
