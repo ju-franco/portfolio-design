@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Conceito da Marca
+## `💡 Conceito da Marca`
 
 A identidade da Vicious foi construída a partir da ideia de **quebra de expectativa**.  Enquanto o universo dos doces costuma ser associado a algo delicado e infantil, a marca adota uma linguagem visual intensa, moderna e impactante.
 
@@ -17,13 +17,13 @@ Essa dualidade entre o nome “Vicious” e o universo dos doces cria uma identi
 
 ---
 
-## 🖋️ Origem do Nome
+## `🖋️ Origem do Nome`
 
 O nome **Vicious** foi escolhido por seu significado forte e provocativo (“cruel”, “feroz”), criando um contraste direto com o segmento alimentício.  A intenção é despertar curiosidade e reforçar o posicionamento ousado da marca, tornando-a facilmente reconhecível.
 
 ---
 
-## 🎨 Origem e Significado da Cor
+## `🎨 Origem e Significado da Cor`
 
 O **roxo** foi definido como cor principal da identidade por representar:
 
@@ -35,7 +35,7 @@ A escolha cromática foge dos padrões tradicionais do mercado de doces, reforç
 
 ---
 
-## 🔤 Identidade Visual
+## `🔤 Identidade Visual`
 
 A identidade visual foi construída para ser impactante e versátil, mantendo consistência em diferentes aplicações.
 
@@ -47,7 +47,7 @@ Elementos principais:
 
 ---
 
-## 🛠️ Processo Criativo
+## `🛠️ Processo Criativo`
 
 O desenvolvimento da identidade visual seguiu as seguintes etapas:
 
@@ -61,13 +61,13 @@ Cada decisão foi pensada para reforçar a personalidade intensa e única da mar
 
 ---
 
-## 🖼️ Logotipo
+## `🖼️ Logotipo`
 
-<img src="./logo-vicious.png" alt="Logotipo Vicious" width="300">
+<img src="./vicious.png" alt="Logotipo Vicious" width="400">
 
 ---
 
-## 🎭 Variações da Marca
+## `🎭 Variações da Marca`
 
 Aplicações do logotipo em diferentes fundos para garantir versatilidade e reconhecimento visual.
 
@@ -75,7 +75,7 @@ Aplicações do logotipo em diferentes fundos para garantir versatilidade e reco
 
 ---
 
-## 📦 Mockups e Aplicações
+## `📦 Mockups e Aplicações`
 
 Exemplos de aplicação da identidade visual em diferentes contextos e materiais.
 
@@ -83,11 +83,7 @@ Exemplos de aplicação da identidade visual em diferentes contextos e materiais
 
 ---
 
-
-
-
-
-## 🛠️ Processo Criativo
+## `🛠️ Processo Criativo`
 
 O processo de criação seguiu etapas estratégicas de branding:
 
@@ -101,9 +97,8 @@ Todas as decisões visuais foram alinhadas aos objetivos e à personalidade da m
 
 ---
 
-## 👤 Autoria
+## `👤 Autoria`
 
 Identidade visual desenvolvida por **Julia Franco**  
 Designer Digital  
 Projeto comercial — desenvolvido sob encomenda
-
