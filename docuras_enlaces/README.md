@@ -1,4 +1,4 @@
-# 🍫 Docuras Enlaces — Identidade Visual
+# `💗 Docuras Enlaces — Identidade Visual`
 
 <img src="./docuras_enlaces.png" alt="Logotipo Docuras Enlaces" width="250">
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Conceito da Marca
+## `💡 Conceito da Marca`
 
 A identidade visual da **Docuras Enlaces** nasce do conceito de **conexão através da doçura**.  
 Mais do que vender doces, a marca propõe criar **laços emocionais** — entre pessoas, momentos e experiências.
@@ -26,20 +26,9 @@ Toda a construção visual foi pensada para transmitir conforto, proximidade e c
 
 ---
 
-## 🖋️ Origem do Nome
+## `🎨 Paleta de Cores`
 
-O nome **Docuras Enlaces** surge da união de dois conceitos centrais da marca:
-
-- **Docuras** → representa os produtos, o sabor e a experiência sensorial  
-- **Enlaces** → simboliza os laços criados através dos doces, sejam eles afetivos, familiares ou comemorativos  
-
-Essa junção reforça a ideia de que cada doce carrega uma história, um gesto de carinho e uma conexão emocional.
-
----
-
-## 🎨 Paleta de Cores
-
-<img src="./paleta_docuras.png" alt="Paleta de cores Docuras Enlaces" width="500">
+![Paleta de Cores](./paleta_docuras.png)
 
 Cores principais:
 - **Marrom (#300e00)** — remete ao chocolate, à tradição e à sofisticação  
@@ -51,7 +40,7 @@ A paleta foi desenvolvida para garantir harmonia, contraste e boa legibilidade e
 
 ---
 
-## 🔤 Identidade Visual
+## `🔤 Identidade Visual`
 
 A identidade visual foi construída para ser **emocionalmente envolvente e versátil**, mantendo coerência em todos os pontos de contato da marca.
 
@@ -63,7 +52,7 @@ Elementos principais:
 
 ---
 
-## 🛠️ Processo Criativo
+## `🛠️ Processo Criativo`
 
 O desenvolvimento da marca seguiu um processo estratégico de branding:
 
@@ -78,21 +67,15 @@ Cada decisão visual foi pensada para alinhar estética, propósito e experiênc
 
 ---
 
-## 🖼️ Logotipo Principal
+## `🖼️ Logotipo Principal`
 
 <img src="./docuras_enlaces.png" alt="Logotipo Docuras Enlaces" width="400">
 
 ---
 
-## 📦 Mockups e Aplicações
+## `📦 Mockups e Aplicações`
 
-<img src="./mockups_docuras.png" alt="Mockups Docuras Enlaces" width="600">
-
-Aplicações desenvolvidas:
-- Sacola ecológica personalizada  
-- Camiseta institucional  
-- Garrafa personalizada  
-- Materiais impressos e digitais  
+![Mockups da marca](./mockups_docuras.png)
 
 Arquivos adicionais do projeto:
 - **Menu da loja** — `menu_docuras`  
@@ -100,16 +83,8 @@ Arquivos adicionais do projeto:
 
 ---
 
-## 🏪 Contexto do Projeto
-
-Este é um **projeto comercial real**, desenvolvido para uma loja física de confeitaria que **ainda será inaugurada**.  
-A identidade visual foi pensada para atender demandas reais de branding, comunicação e ponto de venda.
-
----
-
 ## 👤 Autoria
 
 Identidade visual desenvolvida por **Julia Franco**  
 Designer Digital  
-
 Projeto comercial — desenvolvido sob encomenda
