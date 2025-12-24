@@ -85,20 +85,6 @@ Exemplos de aplicação da identidade visual em diferentes contextos e materiais
 
 ---
 
-## `🛠️ Processo Criativo`
-
-O processo de criação seguiu etapas estratégicas de branding:
-
-1. Briefing com o cliente e entendimento da proposta da marca  
-2. Pesquisa de referências visuais e análise de concorrentes  
-3. Definição do conceito e posicionamento  
-4. Desenvolvimento do logotipo e variações  
-5. Criação das aplicações e mockups  
-
-Todas as decisões visuais foram alinhadas aos objetivos e à personalidade da marca.
-
----
-
 ## `👤 Autoria`
 
 Identidade visual desenvolvida por **Julia Franco**  
